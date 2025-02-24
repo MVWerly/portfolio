@@ -1,7 +1,8 @@
-import style from "styled-components";
+import style from 'styled-components'
 
 export const ProfilePhoto = style.img`
-  max-width: 100%;
+  width: 128px;
+  heigth: 128px;
   border-radius: 50%;
   margin-bottom: 24px;
 `

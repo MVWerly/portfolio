@@ -1,7 +1,7 @@
-import Project from "../../components/Project";
-import Title from "../../components/Title";
+import Project from '../../components/Project'
+import Title from '../../components/Title'
 
-import { List } from "./styles";
+import { List } from './styles'
 
 const Projects = () => (
   <section>
